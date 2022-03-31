@@ -1,0 +1,7 @@
+# 檔案名稱 .gitignore
+
+__MACOSX/
+
+*.d
+*.o
+*.lst
